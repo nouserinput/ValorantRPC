@@ -7,7 +7,7 @@ A discord RPC program that displays simple up-to-date user stats for VALORANT.
 
 ## Installation
 
-Download [loader.exe](https://github.com/illxmi/val-rpc/raw/main/loader.exe) and run it. The loader then fetches the most recent release of val-rpc and loads it automatically. Alternatively, you can download [RPC.exe](https://github.com/illxmi/val-rpc/raw/main/RPC.exe) directly and run the program to prevent any automatic updates from downloading without your knowledge.
+Download [loader.exe](https://github.com/nouserinput/val-rpc/raw/main/loader.exe) and run it. The loader then fetches the most recent release of val-rpc and loads it automatically. Alternatively, you can download [RPC.exe](https://github.com/nouserinput/val-rpc/raw/main/RPC.exe) directly and run the program to prevent any automatic updates from downloading without your knowledge.
 ## Screenshots
 
 ![App Screenshot](https://i.gyazo.com/8a310597139583ca54db771e90160672.png)
@@ -18,5 +18,5 @@ Download [loader.exe](https://github.com/illxmi/val-rpc/raw/main/loader.exe) and
 
 ## Author
 
-- [illxmi](https://www.github.com/illxmi)
+- [null](https://www.github.com/nouserinput)
 
