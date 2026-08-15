@@ -4,6 +4,7 @@
 A discord RPC program that displays simple up-to-date user stats for VALORANT.
  
 ![Static Badge](https://img.shields.io/badge/Build-1.4-green)
+![Static Badge](https://img.shields.io/badge/Development-2.0-red)
 
 ## Installation
 
